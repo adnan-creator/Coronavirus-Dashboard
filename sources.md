@@ -5,3 +5,6 @@ https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-
 
 ## India
 https://www.mohfw.gov.in/
+
+## Pakistan 
+https://www.covid.gov.pk
